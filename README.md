@@ -1,2 +1,2 @@
 # goit-js-hw-07
-JS HW 07
+GitHub Pages
